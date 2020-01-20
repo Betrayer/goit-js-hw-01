@@ -2,7 +2,7 @@
 
 const total = 100;
 
-const ordered = 130;
+const ordered = 90;
 
 if (total >= ordered) alert('Order is processing, our manager will call you soon.');
 
